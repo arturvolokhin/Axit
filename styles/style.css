@@ -198,7 +198,7 @@ a {
   background: #333333;
 }
 
-.tab-red {
+.tab:hover {
   background: #ec7979;
 }
 
